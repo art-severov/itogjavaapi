@@ -1,7 +1,7 @@
 package dzseminar6;
 import java.util.*;
 
-public class program {
+public class Program {
     public static void main(String[] args) {
         Set<NoteBook> noteBooks = new HashSet<>();
         noteBooks.add(new NoteBook(4,1024, "Windows", "Grey"));
